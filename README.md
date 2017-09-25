@@ -1,6 +1,7 @@
-# W12D1 Technical Module
+# Tic Tac Toe
 
-Tic Tac Toe
+W12D1 Technical Module
+Make a command line tic-tac-toe game from scratch for two players.
 
 # Expected Features
 
@@ -14,6 +15,9 @@ Tic Tac Toe
 * Implement win detection with a functional rather than iterative style.
 * Between moves, rotate the board 90 degrees counter-clockwise. The moves "fall" due to "gravity", post-rotation.
 
-# Installing System Dependencies
+# Installing Dependencies
+```
+npm install prompt
+```
 
-# Installing Project Dependencies
+

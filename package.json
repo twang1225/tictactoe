@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/twang1225/tictactoe/issues"
   },
-  "homepage": "https://github.com/twang1225/tictactoe#readme"
+  "homepage": "https://github.com/twang1225/tictactoe#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
